@@ -1,0 +1,17 @@
+{
+    "name": "leorain/self-composer",
+    "description": "composer test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leorain\\SelfComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leorain",
+            "email": "woshilihexin@gmail.com"
+        }
+    ],
+    "require": {}
+}
